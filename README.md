@@ -1,12 +1,21 @@
 automation-devops-guide/
-├── README.md
-├── infrastructure-automation/
-├── ci-cd-pipelines/
-├── containers-orchestration/
-├── monitoring-logging/
-├── configuration-management/
-├── test-automation/
-└── security-compliance/
+
+  ├── README.md
+ 
+  ├── infrastructure-automation/
+ 
+  ├── ci-cd-pipelines/
+ 
+  ├── containers-orchestration/
+ 
+  ├── monitoring-logging/
+ 
+  ├── configuration-management/
+ 
+  ├── test-automation/
+ 
+  └── security-compliance/
+
 
 # Automation and DevOps Guide
 
